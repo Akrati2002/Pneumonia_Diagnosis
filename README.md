@@ -1,4 +1,4 @@
-#Objective:
+Objective:
 The objective of this code is to develop a convolutional neural network (CNN) model capable of accurately detecting pneumonia from chest X-ray images. Pneumonia is a common and potentially life-threatening respiratory infection, and early detection is crucial for timely treatment and patient care. By leveraging machine learning techniques, this project aims to assist healthcare professionals in diagnosing pneumonia more effectively and efficiently.
 
 Abstract:
